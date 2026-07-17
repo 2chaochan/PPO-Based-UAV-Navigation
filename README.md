@@ -6,6 +6,9 @@
 
 > 项目依赖 Windows 版本的 Unreal/AirSim 场景。仓库只包含训练代码和预训练权重，不包含 `TrainEnv`、`TestEnv` 场景可执行文件。
 
+## 效果展示
+![演示](./demo/demo.gif)
+
 ## 1. 项目原理
 
 ### 1.1 观测空间
